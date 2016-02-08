@@ -34,7 +34,7 @@ GameObject:
   - 114: {fileID: 11474610}
   m_Layer: 0
   m_Name: monster
-  m_TagString: Untagged
+  m_TagString: Monster
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -326,6 +326,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe486ccbaa47844ce95477be793c2fd5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathParticle: {fileID: 153928, guid: a2b8e440745196f4ba96b101c1ea2f9e, type: 2}
 --- !u!114 &11485994
 MonoBehaviour:
   m_ObjectHideFlags: 1

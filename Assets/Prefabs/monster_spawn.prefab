@@ -41,6 +41,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   monsterPrefab: {fileID: 103426, guid: d4a807e67a9954f4fad51e12dbfff35f, type: 2}
   interval: 3
+  numMonsters: 15
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
